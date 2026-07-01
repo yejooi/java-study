@@ -1,5 +1,3 @@
-package operator;
-
 public class Operator3 {
     static void main(String[] args) {
         // compare
