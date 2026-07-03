@@ -1,3 +1,5 @@
+package operator;
+
 public class Operator4 {
     // logical
     static void main(String[] args) {

@@ -1,3 +1,5 @@
+package operator;
+
 public class Operator2 {
     static void main(String[] args) {
         // 전위, 후위 증감 연산자

@@ -1,3 +1,5 @@
+package variable;
+
 public class Var2 {
     static void main(String[] args) {
         byte b = 127;

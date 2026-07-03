@@ -1,3 +1,5 @@
+package variable;
+
 public class Var1 {
     static void main(String[] args) {
         int a, b = 20;
